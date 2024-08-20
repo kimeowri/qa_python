@@ -22,4 +22,5 @@
 `pytest --cov=main`
 
 ### Результат оценки покрытия с учетом ветвлений: 100%
+`pytest --cov=main --cov-branch --cov-report=html`
 
